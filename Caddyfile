@@ -14,5 +14,5 @@ superawesomecorp.space {
 }
 
 books.superawesomecorp.space {
-    respond "Coming Soon!"
+    reverse_proxy :8001
 }
